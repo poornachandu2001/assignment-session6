@@ -1,0 +1,134 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    padding: 1px 0px 10px 0px;
+    box-shadow: 1px 1px grey;
+}
+.head_logo{
+    margin-top: 10px;
+    margin-left: 150px;
+    width: 100px;
+    height: auto;
+}
+.ww{
+    margin: 10px 15px 4px 400px ;
+    text-decoration: none;
+    color: grey;
+    font-size: 12px;
+}
+.ww:hover{
+    color: blue;
+}
+.tags{
+    margin: 10px 15px 4px 15px ;
+    text-decoration: none;
+    color: grey;
+    font-size: 12px;
+}
+.tags:hover{
+    color: blue;
+}
+.box{
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 50px;
+    height: auto;
+    color: rgb(109, 108, 108);
+}
+.box img{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.box h{
+    margin-left: 80px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+.box a{
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+    margin-top: 250px;
+    margin-left: 200px;
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+}
+.box a:hover{
+    background-color: black;
+}
+.box2{
+    width: 40%;
+    margin: auto;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.box2 img{
+    width: 60%;
+    margin: auto;
+}
+.box3{
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+    color: rgb(109, 108, 108);
+    font-size: 15px;
+}
+.box3 h{
+    font-size: 35px;
+    color: black;
+}
+.box3 .box3_1{
+     width: 40%;
+     margin: auto;
+     margin-left: 200px;
+     margin-top: -65px;
+}
+.box4{
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+}
+.box4 h{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.box4 a{
+    text-decoration: none;
+    color: blue;
+}
+.box4 a:hover{
+    color: black;
+}
+.box5{
+    width: 30%;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-right: 200px;
+}
+.box5 h{
+    font-size: 35px;
+    margin-left: 150px;
+}
+.box6{
+    width: 30%;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-right: 500px;
+}
+.box6 h{
+    margin-left: 150px;
+    font-size: 35px;
+}
+
